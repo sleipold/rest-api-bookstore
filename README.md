@@ -6,5 +6,4 @@ A rest api written in go for learning purpose.
 go get -u github.com/gorilla/mux
 
 ## Build and run app
-go build
-./go_restapi
+go build && ./rest-api-bookstore
